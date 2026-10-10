@@ -1,1 +1,1 @@
-# MedicalAgent
+# Medix
